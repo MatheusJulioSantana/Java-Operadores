@@ -14,6 +14,7 @@ Elabore um algoritmo em Java que leia 4 notas de um participante, em variáveis 
 ![EXERCICIO (8)](https://github.com/MatheusJulioSantana/Java-Operadores/assets/129356541/1e78ae3f-ca77-451b-af18-fbe26d2855d8)
 Elabore um algoritmo em Java, que leia o Salário Bruto, o Adicional Noturno, as Horas Extras e os Descontos de um Colaborador, em variáveis do tipo float e exiba na tela o Salário Líquido.<br>
 - Veja o .java [aqui](https://github.com/MatheusJulioSantana/Java-Operadores/blob/main/Operadores/src/Exercicios/Ex03.java)
+
 ![EXERCICIO (9)](https://github.com/MatheusJulioSantana/Java-Operadores/assets/129356541/62532f50-80ae-43b0-9b5c-d3c379ed4c56)
 Leia quatro valores float (n1, n2, n3, n4). A seguir, calcule e mostre a diferença do produto entre o n1 e n2 pelo produto entre o n3 e o n4.
  - Veja o .java [aqui](https://github.com/MatheusJulioSantana/Java-Operadores/blob/main/Operadores/src/Exercicios/Ex04.java)
